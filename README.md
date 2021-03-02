@@ -39,14 +39,17 @@ hard does the same as medium plus gives user a limited amount of time to guess)
 Here's a walkthrough of implemented user stories:
 
 Easy Level:
+
 Link: https://i.imgur.com/fG5HD0m.gif
 ![](easy.gif)
 
 Medium Level:
+
 Link: https://i.imgur.com/hcqwlrq.gif
 ![](medium.gif)
 
 Hard Level:
+
 Link: https://i.imgur.com/EjjicOv.gif
 ![](hard.gif)
 
