@@ -40,12 +40,15 @@ Here's a walkthrough of implemented user stories:
 
 Easy Level:
 <img src='https://imgur.com/fG5HD0m' title='Video Walkthrough Easy Level' width='' alt='Video Walkthrough Easy Level' />
+![](easy.gif)
 
 Medium Level:
 <img src='https://imgur.com/hcqwlrq' title='Video Walkthrough Medium Level' width='' alt='Video Walkthrough Medium Level' />
+![](medium.gif)
 
 Hard Level:
 <img src='https://imgur.com/EjjicOv' title='Video Walkthrough Hard Level' width='' alt='Video Walkthrough Hard Level' />
+![](hard.gif)
 
 GIFs created with Kap.
 
