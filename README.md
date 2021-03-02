@@ -39,15 +39,15 @@ hard does the same as medium plus gives user a limited amount of time to guess)
 Here's a walkthrough of implemented user stories:
 
 Easy Level:
-<img src="https://i.imgur.com/fG5HD0m.gif" title='Video Walkthrough Easy Level' width='' alt='Video Walkthrough Easy Level' />
+Link: https://i.imgur.com/fG5HD0m.gif
 ![](easy.gif)
 
 Medium Level:
-<img src="https://i.imgur.com/hcqwlrq.gif" title='Video Walkthrough Medium Level' width='' alt='Video Walkthrough Medium Level' />
+Link: https://i.imgur.com/hcqwlrq.gif
 ![](medium.gif)
 
 Hard Level:
-<img src="https://i.imgur.com/EjjicOv.gif" title='Video Walkthrough Hard Level' width='' alt='Video Walkthrough Hard Level' />
+Link: https://i.imgur.com/EjjicOv.gif
 ![](hard.gif)
 
 GIFs created with Kap.
